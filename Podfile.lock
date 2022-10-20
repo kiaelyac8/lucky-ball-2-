@@ -1,0 +1,16 @@
+PODS:
+  - TextFieldCounter (1.1.0)
+
+DEPENDENCIES:
+  - TextFieldCounter
+
+SPEC REPOS:
+  trunk:
+    - TextFieldCounter
+
+SPEC CHECKSUMS:
+  TextFieldCounter: 0f20630c8fe6f02b657bd883674829edfc40d845
+
+PODFILE CHECKSUM: 7ab76b558a90e53751ac73aa40f6d7a9e1a17ecb
+
+COCOAPODS: 1.11.3
